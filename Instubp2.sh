@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##############################
-#### Disable Services
+#### Disable Services     ####
 ##############################
 
 systemctl disable named
