@@ -1,2 +1,2 @@
 # install-ubuntu
-Started
+Install Script for Ubuntu 20.04
