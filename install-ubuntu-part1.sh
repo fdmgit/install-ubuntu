@@ -9,7 +9,7 @@ apt install --install-recommends linux-generic-hwe-20.04 -y
 
 apt upgrade -y 
 apt install mlocate sntp ntpdate software-properties-common -y 
-hostnamectl set-hostname supertest.perdb.ch
+hostnamectl set-hostname $2
 
 ##############################
 #### Change MariaDB repository
